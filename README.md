@@ -8,7 +8,7 @@ I'm a passionate and experienced Data Engineer with a strong focus on designing 
 - 🤔 **Seeking Help**: Looking for guidance on optimizing data storage costs, improving data security, and ensuring data compliance.
 - 💬 **Ask Me About**: Apache Beam, Apache Spark, Apache Airflow, AWS Glue, Google Cloud Dataflow, and data engineering best practices.
 - 📫 **Reach Me At**: [jirehuna@gmail.com](mailto:jirehuna@gmail.com)
-- 😄 **Pronouns**: Her/She
+- 😄 **Pronouns**: She/Her
 - ⚡ **Fun Fact**: I love working out and watching netflix.
 
 ---
