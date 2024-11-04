@@ -31,10 +31,6 @@ I'm a passionate and experienced Data Engineer with a strong focus on designing 
 
 ---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osaro igbinovia" height="30" width="40" /></a>
 </p>
 
 
